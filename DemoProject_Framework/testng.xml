@@ -11,6 +11,7 @@
       <class name="Test.LoginTest"/>
 
       <class name="Test.MyDemoTest"/>
+         <class name="Test.Frame "/>
       <class name="Test.FrameTest"/>
 
 
