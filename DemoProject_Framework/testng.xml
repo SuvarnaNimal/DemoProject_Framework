@@ -9,7 +9,16 @@
   <parameter name="browser" value="chrome"/>
     <classes>
       <class name="Test.LoginTest"/>
+VFeatureBranch
          <class name="Test.DemoTest"/>
+
+
+      <class name="Test.MyDemoTest"/>
+         <class name="Test.Frame "/>
+      <class name="Test.FrameTest"/>
+
+
+ master
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
